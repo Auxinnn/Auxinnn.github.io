@@ -1,6 +1,6 @@
 {
   "season": "2022-23",
-  "generated_at": "2025-10-23T17:23:18.367383",
+  "generated_at": "2025-10-23T17:51:53.318905",
   "teams": [
     {
       "rank": 1,
@@ -98,7 +98,7 @@
       "rank": 5,
       "team_id": "1610612739",
       "team_name": "Cavaliers",
-      "resilience_score": 83.64007694573631,
+      "resilience_score": 83.6400769457363,
       "raw_score": 0.47418210236890385,
       "indicators": {
         "comeback_win_rate": 0.1333,
@@ -121,8 +121,8 @@
       "rank": 6,
       "team_id": "1610612743",
       "team_name": "Nuggets",
-      "resilience_score": 82.03707901215027,
-      "raw_score": 0.44607111998389265,
+      "resilience_score": 82.03707901215026,
+      "raw_score": 0.4460711199838927,
       "indicators": {
         "comeback_win_rate": 0.1818,
         "big_deficit_comeback_rate": 0.0,
@@ -145,7 +145,7 @@
       "team_id": "1610612763",
       "team_name": "Grizzlies",
       "resilience_score": 80.09592677931808,
-      "raw_score": 0.4120300928057112,
+      "raw_score": 0.41203009280571123,
       "indicators": {
         "comeback_win_rate": 0.1333,
         "big_deficit_comeback_rate": 0.1429,
@@ -168,7 +168,7 @@
       "team_id": "1610612741",
       "team_name": "Bulls",
       "resilience_score": 75.52551229997589,
-      "raw_score": 0.3318809932784457,
+      "raw_score": 0.3318809932784458,
       "indicators": {
         "comeback_win_rate": 0.0714,
         "big_deficit_comeback_rate": 0.0,
@@ -190,7 +190,7 @@
       "rank": 9,
       "team_id": "1610612750",
       "team_name": "Timberwolves",
-      "resilience_score": 72.60739568500505,
+      "resilience_score": 72.60739568500503,
       "raw_score": 0.2807074246529741,
       "indicators": {
         "comeback_win_rate": 0.0625,
@@ -237,7 +237,7 @@
       "team_id": "1610612749",
       "team_name": "Bucks",
       "resilience_score": 70.65862507857136,
-      "raw_score": 0.24653279782277435,
+      "raw_score": 0.24653279782277437,
       "indicators": {
         "comeback_win_rate": 0.0833,
         "big_deficit_comeback_rate": 0.0,
@@ -260,7 +260,7 @@
       "team_id": "1610612747",
       "team_name": "Lakers",
       "resilience_score": 70.02178221190472,
-      "raw_score": 0.23536479926719445,
+      "raw_score": 0.23536479926719434,
       "indicators": {
         "comeback_win_rate": 0.0588,
         "big_deficit_comeback_rate": 0.1429,
@@ -282,8 +282,8 @@
       "rank": 13,
       "team_id": "1610612761",
       "team_name": "Raptors",
-      "resilience_score": 67.31200627797553,
-      "raw_score": 0.18784479818047917,
+      "resilience_score": 67.31200627797551,
+      "raw_score": 0.18784479818047914,
       "indicators": {
         "comeback_win_rate": 0.0,
         "big_deficit_comeback_rate": 0.0,
@@ -328,8 +328,8 @@
       "rank": 15,
       "team_id": "1610612746",
       "team_name": "Clippers",
-      "resilience_score": 60.45291734593176,
-      "raw_score": 0.06756034608853956,
+      "resilience_score": 60.452917345931745,
+      "raw_score": 0.06756034608853964,
       "indicators": {
         "comeback_win_rate": 0.1176,
         "big_deficit_comeback_rate": 0.0,
@@ -352,7 +352,7 @@
       "team_id": "1610612737",
       "team_name": "Hawks",
       "resilience_score": 55.56389784008978,
-      "raw_score": -0.01817597229912426,
+      "raw_score": -0.018175972299124248,
       "indicators": {
         "comeback_win_rate": 0.0,
         "big_deficit_comeback_rate": 0.0,
@@ -374,8 +374,8 @@
       "rank": 17,
       "team_id": "1610612762",
       "team_name": "Jazz",
-      "resilience_score": 48.78227050186933,
-      "raw_score": -0.13710201871014646,
+      "resilience_score": 48.782270501869334,
+      "raw_score": -0.13710201871014638,
       "indicators": {
         "comeback_win_rate": 0.0714,
         "big_deficit_comeback_rate": 0.0,
@@ -443,8 +443,8 @@
       "rank": 20,
       "team_id": "1610612753",
       "team_name": "Magic",
-      "resilience_score": 43.32810399069698,
-      "raw_score": -0.23274904077304456,
+      "resilience_score": 43.328103990696995,
+      "raw_score": -0.23274904077304454,
       "indicators": {
         "comeback_win_rate": 0.0435,
         "big_deficit_comeback_rate": 0.0,
@@ -467,7 +467,7 @@
       "team_id": "1610612744",
       "team_name": "Warriors",
       "resilience_score": 42.174871691780865,
-      "raw_score": -0.2529727055460453,
+      "raw_score": -0.2529727055460454,
       "indicators": {
         "comeback_win_rate": 0.0,
         "big_deficit_comeback_rate": 0.0,
@@ -490,7 +490,7 @@
       "team_id": "1610612760",
       "team_name": "Thunder",
       "resilience_score": 41.70357982053452,
-      "raw_score": -0.26123751812828433,
+      "raw_score": -0.2612375181282844,
       "indicators": {
         "comeback_win_rate": 0.0,
         "big_deficit_comeback_rate": 0.0,
@@ -536,7 +536,7 @@
       "team_id": "1610612757",
       "team_name": "Trail Blazers",
       "resilience_score": 37.35102495477433,
-      "raw_score": -0.33756612130212765,
+      "raw_score": -0.3375661213021277,
       "indicators": {
         "comeback_win_rate": 0.0,
         "big_deficit_comeback_rate": 0.0,
@@ -559,7 +559,7 @@
       "team_id": "1610612764",
       "team_name": "Wizards",
       "resilience_score": 36.09115932565653,
-      "raw_score": -0.3596597620770619,
+      "raw_score": -0.35965976207706185,
       "indicators": {
         "comeback_win_rate": 0.0952,
         "big_deficit_comeback_rate": 0.0,
@@ -581,8 +581,8 @@
       "rank": 26,
       "team_id": "1610612754",
       "team_name": "Pacers",
-      "resilience_score": 32.93764548141152,
-      "raw_score": -0.4149613755533479,
+      "resilience_score": 32.937645481411515,
+      "raw_score": -0.41496137555334794,
       "indicators": {
         "comeback_win_rate": 0.0,
         "big_deficit_comeback_rate": 0.1,
@@ -604,8 +604,8 @@
       "rank": 27,
       "team_id": "1610612766",
       "team_name": "Hornets",
-      "resilience_score": 29.615173111084843,
-      "raw_score": -0.4732259311838102,
+      "resilience_score": 29.615173111084857,
+      "raw_score": -0.47322593118381,
       "indicators": {
         "comeback_win_rate": 0.0,
         "big_deficit_comeback_rate": 0.0,
@@ -627,7 +627,7 @@
       "rank": 28,
       "team_id": "1610612765",
       "team_name": "Pistons",
-      "resilience_score": 14.816932393364418,
+      "resilience_score": 14.816932393364423,
       "raw_score": -0.7327353637470724,
       "indicators": {
         "comeback_win_rate": 0.0,
@@ -650,7 +650,7 @@
       "rank": 29,
       "team_id": "1610612745",
       "team_name": "Rockets",
-      "resilience_score": 9.74594021425569,
+      "resilience_score": 9.745940214255693,
       "raw_score": -0.8216628469550874,
       "indicators": {
         "comeback_win_rate": 0.0909,
@@ -674,7 +674,7 @@
       "team_id": "1610612759",
       "team_name": "Spurs",
       "resilience_score": 0.0,
-      "raw_score": -0.9925725829866401,
+      "raw_score": -0.9925725829866402,
       "indicators": {
         "comeback_win_rate": 0.0,
         "big_deficit_comeback_rate": 0.0588,
