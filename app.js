@@ -4,7 +4,7 @@
 const INDICATOR_NAMES = {
     // 逆境表现维度
     'comeback_win_rate': '落后逆转胜率',
-    'deficit_recovery': '大比分落后恢复能力',
+    'big_deficit_comeback_rate': '大比分落后逆转获胜率',
     'clutch_net_rating': '关键时刻净胜分差',
     'blown_lead_rate': '领先崩盘率',
     // 连续性与稳定性维度
@@ -24,7 +24,7 @@ const INDICATOR_NAMES = {
 
 // 指标分类
 const INDICATOR_CATEGORIES = {
-    adversity: ['comeback_win_rate', 'deficit_recovery', 'clutch_net_rating', 'blown_lead_rate'],
+    adversity: ['comeback_win_rate', 'big_deficit_comeback_rate', 'clutch_net_rating', 'blown_lead_rate'],
     consistency: ['bounce_back_performance', 'back_to_back_performance', 'road_performance_consistency', 'losing_streak_length'],
     lineup: ['win_rate_without_key_players', 'starting_lineup_volatility', 'star_dependency'],
     mental: ['performance_vs_top_teams', 'opp_hot_night_win_rate', 'post_tough_loss_nr']
