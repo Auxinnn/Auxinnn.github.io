@@ -32,7 +32,7 @@ const INDICATOR_CATEGORIES = {
 
 // 全局变量
 let currentData = null;
-let currentSeason = '2023-24';
+let currentSeason = '2024-25';
 
 // DOM元素
 const seasonSelect = document.getElementById('seasonSelect');
